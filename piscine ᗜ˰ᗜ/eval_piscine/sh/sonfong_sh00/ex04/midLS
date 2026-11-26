@@ -1,0 +1,5 @@
+# -p appends / to directories
+# -t sorts by time modified
+# -m separates contents with comma
+# merging operators makes it more efficient
+ls -ptm
